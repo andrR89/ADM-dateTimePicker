@@ -6,7 +6,7 @@
     "ADM | Amirkabir Data Miners <info@adm-co.net>"
   ],
   "description": "Pure AngularJs TreeView",
-  "main": "server.js",
+  "main": ["server.js", "dist/ADM-dateTimePicker.css", "dist/ADM-dateTimePicker.js"],
   "moduleType": [
     "globals",
     "npm"
